@@ -22,3 +22,5 @@ Entry B from editor
 Edit 1 from another user
 
 Edit 2 from another user
+
+Edit 3 from another user
