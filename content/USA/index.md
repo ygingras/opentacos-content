@@ -18,3 +18,5 @@ Entry A from editor
 Entry 5 from another user
 Entry 6 from another user
 Entry B from editor
+
+Edit 1 from another user
